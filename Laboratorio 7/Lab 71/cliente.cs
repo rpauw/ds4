@@ -13,12 +13,12 @@ class Cliente
 
     public void Depositar(int m)
     {
-        monto += m;
+        monto = monto+ m;
     }
 
     public void Extraer(int m)
     {
-        monto -= m;
+        monto =monto - m;
     }
 
     public int RetornarMonto()
