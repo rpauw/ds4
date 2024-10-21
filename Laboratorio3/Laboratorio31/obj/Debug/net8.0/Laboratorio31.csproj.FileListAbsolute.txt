@@ -1,0 +1,14 @@
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\bin\Debug\net8.0\Laboratorio31.exe
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\bin\Debug\net8.0\Laboratorio31.deps.json
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\bin\Debug\net8.0\Laboratorio31.runtimeconfig.json
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\bin\Debug\net8.0\Laboratorio31.dll
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\bin\Debug\net8.0\Laboratorio31.pdb
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.AssemblyInfoInputs.cache
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.AssemblyInfo.cs
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.dll
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\refint\Laboratorio31.dll
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.pdb
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\Laboratorio31.genruntimeconfig.cache
+C:\Users\RICARDO\source\repos\Laboratorio3\Laboratorio31\obj\Debug\net8.0\ref\Laboratorio31.dll
